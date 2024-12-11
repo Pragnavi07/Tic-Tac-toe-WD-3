@@ -14,7 +14,7 @@ A simple **Tic-Tac-Toe** game where you can play against an AI opponent or with 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe-ai.git
+    git clone https://github.com/Pragnavi07/tic-tac-toe-ai.git
     ```
 
 2. Open the `index.html` file in your browser.
